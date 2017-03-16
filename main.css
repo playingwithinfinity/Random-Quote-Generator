@@ -1,0 +1,30 @@
+body {
+  background-color: navy;
+}
+
+.white-text {
+  color: white;
+}
+
+.red-text {
+  color: red;
+}
+
+#text {
+  border-color: navy;
+  border-style: solid;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.btn {
+  margin: 20px;
+}
+
+h1 {
+  font-family: Ubuntu;
+}
+
+.quote {
+  font-family: Roboto;
+}
